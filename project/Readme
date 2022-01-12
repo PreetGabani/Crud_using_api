@@ -1,0 +1,38 @@
+List employee - : http://localhost:8000/employee/list  
+method - : get
+
+--------------------------------------------
+Find by Id - : http://localhost:8000/employee/61cead01a25fcb1df05a0201
+method - : get
+--------------------------------------------
+
+Update - :  http://localhost:8000/employee/update
+method-:post
+body-:
+{
+    "fullName":"mehulsssssss",
+    "email":"mehul.10mca@gmail.com",
+    "mobile":"9989898989",
+    "city":"sdurat",
+    "_id":"61d2cbdd1feab136e4952d8b"
+}
+--------------------------------------------
+delete -: http://localhost:8000/employee/delete/61cead01a25fcb1df05a0201
+method-:get
+param - id
+
+--------------------------------------------
+add -:http://localhost:8000/employee/add
+method-:post
+body-:
+{
+    "fullName":"mehulsssssss",
+    "email":"mehul.10mca@gmail.com",
+    "mobile":"9989898989",
+    "city":"sdurat"
+}
+
+
+
+
+
