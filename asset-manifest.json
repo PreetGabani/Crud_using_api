@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Crud_using_api/static/css/main.4afafb3b.css",
+    "main.js": "/Crud_using_api/static/js/main.999fa405.js",
+    "static/js/498.54da2cb9.chunk.js": "/Crud_using_api/static/js/498.54da2cb9.chunk.js",
+    "static/js/703.f8986607.chunk.js": "/Crud_using_api/static/js/703.f8986607.chunk.js",
+    "static/js/513.d3b1ef4e.chunk.js": "/Crud_using_api/static/js/513.d3b1ef4e.chunk.js",
+    "static/js/787.bfc10ec6.chunk.js": "/Crud_using_api/static/js/787.bfc10ec6.chunk.js",
+    "index.html": "/Crud_using_api/index.html",
+    "main.4afafb3b.css.map": "/Crud_using_api/static/css/main.4afafb3b.css.map",
+    "main.999fa405.js.map": "/Crud_using_api/static/js/main.999fa405.js.map",
+    "498.54da2cb9.chunk.js.map": "/Crud_using_api/static/js/498.54da2cb9.chunk.js.map",
+    "703.f8986607.chunk.js.map": "/Crud_using_api/static/js/703.f8986607.chunk.js.map",
+    "513.d3b1ef4e.chunk.js.map": "/Crud_using_api/static/js/513.d3b1ef4e.chunk.js.map",
+    "787.bfc10ec6.chunk.js.map": "/Crud_using_api/static/js/787.bfc10ec6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4afafb3b.css",
+    "static/js/main.999fa405.js"
+  ]
+}
